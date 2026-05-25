@@ -6,7 +6,7 @@ namespace Uninove.Web.Controllers
     {
         public IActionResult Index()
         {
-            ViewBag.Nome = "Rodolfo";
+            ViewBag.Nome = "Isadora";
             ViewBag.Curso = "Tecnologia em Análise e Desenvolvimento de Sistemas";
             ViewBag.Semestre = "1º semestre";
 
